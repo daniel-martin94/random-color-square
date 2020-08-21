@@ -1,4 +1,4 @@
-# Welcome to the Identity Generator Repo
+# Welcome to the Random Color Square Repo
 
 This is a code repo for random color square
 
